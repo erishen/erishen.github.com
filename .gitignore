@@ -1,6 +1,7 @@
 _site/*
 _theme_packages/*
 node_modules/
+db.json
 
 Thumbs.db
 .DS_Store
