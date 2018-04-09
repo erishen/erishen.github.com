@@ -7,5 +7,5 @@ categories:
 
 [REACT](/React.html)
 [CRM](/Crm.html)
-[INKE](/Inke.html)
+[INKE](/Inke.html?R)
 [Seniverse](/Seniverse.html)
