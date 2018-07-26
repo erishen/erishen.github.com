@@ -11,3 +11,4 @@ categories:
 ## [King_Test](/kingSSR/test.html)
 ## [King_Bootstrap](/kingSSR/bootstrap.html)
 ## [King_Lazyload](/kingSSR/lazyload.html)
+## [King_Arrange](/kingSSR/arrange.html)
