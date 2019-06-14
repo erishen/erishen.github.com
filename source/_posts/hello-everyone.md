@@ -14,3 +14,5 @@ categories:
 ## [Apiopen-VideoRecommend](/webapp/skeleton/hybrid/apiopen/videoRecommend.html)
 
 ## [Github-Zeit](/webapp/skeleton/hybrid/github/zeit.html)
+
+## [Math-Quiz](/webapp/skeleton/hybrid/math/quiz.html)
