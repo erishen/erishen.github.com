@@ -1,18 +1,12 @@
 ---
 title: Welcome to ERISHEN
-date: 2019-06-11 22:15
+date: 2020-01-18 20:50
 tags:
 categories:
 ---
 
-## [Test](/webapp/skeleton/hybrid/test.html)
+## [Math-Quiz](/webapp/you/destask/hybrid/math/quiz.html)
 
-## [Research-LozyLoad](/webapp/skeleton/hybrid/research/lazyload.html)
+## [English-Quiz](/webapp/you/destask/hybrid/english/quiz.html)
 
-## [Research-Bootstrap](/webapp/skeleton/hybrid/research/bootstrap.html)
-
-## [Apiopen-VideoRecommend](/webapp/skeleton/hybrid/apiopen/videoRecommend.html)
-
-## [Github-Zeit](/webapp/skeleton/hybrid/github/zeit.html)
-
-## [Math-Quiz](/webapp/skeleton/hybrid/math/quiz.html)
+## [Chinese-Quiz](/webapp/you/destask/hybrid/chinese/quiz.html)
