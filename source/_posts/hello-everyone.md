@@ -13,4 +13,4 @@ categories:
 
 ## [Chinese-Poetry](/webapp/you/destask/hybrid/chinese/poetry.html)
 
-## [视频推荐](/webapp/you/destask/hybrid/apiopen/videoRecommend.html?id=30000)
+## [视频推荐](/webapp/you/destask/hybrid/apiopen/videoRecommend.html)
