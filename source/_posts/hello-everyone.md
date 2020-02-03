@@ -12,3 +12,5 @@ categories:
 ## [Chinese-Quiz](/webapp/you/destask/hybrid/chinese/quiz.html)
 
 ## [Chinese-Poetry](/webapp/you/destask/hybrid/chinese/poetry.html)
+
+## [视频推荐30000](/webapp/you/destask/hybrid/apiopen/videoRecommend.html?id=30000)
