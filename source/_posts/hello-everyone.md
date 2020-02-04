@@ -5,12 +5,12 @@ tags:
 categories:
 ---
 
-## [Math-Quiz](/webapp/you/destask/hybrid/math/quiz.html)
+## [小学一年级上数学加减](/webapp/you/destask/hybrid/math/quiz.html)
 
-## [English-Quiz](/webapp/you/destask/hybrid/english/quiz.html)
+## [小学一年级上英语单词](/webapp/you/destask/hybrid/english/quiz.html)
 
-## [Chinese-Quiz](/webapp/you/destask/hybrid/chinese/quiz.html)
+## [小学一年级上汉字拼音](/webapp/you/destask/hybrid/chinese/quiz.html)
 
-## [Chinese-Poetry](/webapp/you/destask/hybrid/chinese/poetry.html)
+## [小学生必背古诗](/webapp/you/destask/hybrid/chinese/poetry.html)
 
 ## [视频推荐](/webapp/you/destask/hybrid/apiopen/videoRecommend.html)
