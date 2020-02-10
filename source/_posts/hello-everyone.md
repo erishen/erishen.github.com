@@ -14,3 +14,5 @@ categories:
 ## [小学生必背古诗](/webapp/you/destask/hybrid/chinese/poetry.html)
 
 ## [视频推荐](/webapp/you/destask/hybrid/apiopen/videoRecommend.html)
+
+## [数学选择题](/webapp/skeleton/hybrid/math/quiz.html)
