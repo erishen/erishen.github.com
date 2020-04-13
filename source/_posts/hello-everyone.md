@@ -13,5 +13,5 @@ categories:
 
 ## [小学生必背古诗](/webapp/you/destask/hybrid/chinese/poetry.html)
 
-## [图书推荐](/webapp/you/destask/hybrid/engineer/support.html)
+## [小学生必会成语](/webapp/you/destask/hybrid/chinese/idiom.html)
 
