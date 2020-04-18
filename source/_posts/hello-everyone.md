@@ -5,7 +5,7 @@ tags:
 categories:
 ---
 
-## [小学一年级上数学加减](/webapp/you/destask/hybrid/math/quiz.html)
+## [小学一年级100以内数学加减](/webapp/you/destask/hybrid/math/quiz.html?min=10&max=100)
 
 ## [小学一年级上英语单词](/webapp/you/destask/hybrid/english/quiz.html)
 
