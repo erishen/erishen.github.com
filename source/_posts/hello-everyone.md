@@ -15,3 +15,5 @@ categories:
 
 ## [小学生必会成语](/webapp/you/destask/hybrid/chinese/idiom.html)
 
+## [笔记](/webapp/you/destask/hybrid/engineer/paste.html)
+
