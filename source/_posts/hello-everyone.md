@@ -17,3 +17,11 @@ categories:
 
 ## [笔记](/webapp/you/destask/hybrid/engineer/paste.html)
 
+## [头条](/webapp/you/destask/hybrid/juhe/toutiao.html)
+
+## [视频](/webapp/you/destask/hybrid/apiopen/videoRecommend.html)
+
+## [天气](/Seniverse.html)
+
+
+
