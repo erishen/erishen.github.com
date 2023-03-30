@@ -9,3 +9,4 @@ categories:
 - hexo n post_name 创建 Post
 - hexo g     生成静态页面
 - hexo d     发布
+- ceshi
