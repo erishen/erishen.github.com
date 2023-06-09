@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2023-03-30T13:34:22.678Z</updated>
+  <updated>2023-06-09T03:33:38.772Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hello-world</title>
+    <link href="http://yoursite.com/2023/06/09/hello-world/"/>
+    <id>http://yoursite.com/2023/06/09/hello-world/</id>
+    <published>2023-06-09T03:32:27.000Z</published>
+    <updated>2023-06-09T03:33:38.772Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://nextjs.org/" target="_blank" rel="noopener">next.js</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;a href=&quot;https://nextjs.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;next.js&lt;/a&gt;&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>test</title>
