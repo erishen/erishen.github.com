@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2023-06-09T03:33:38.772Z</updated>
+  <updated>2023-06-28T02:13:09.665Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>20230628</title>
+    <link href="http://yoursite.com/2023/06/28/20230628/"/>
+    <id>http://yoursite.com/2023/06/28/20230628/</id>
+    <published>2023-06-28T02:06:39.000Z</published>
+    <updated>2023-06-28T02:13:09.665Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="/dest/public/hybrid/xinchen/index.html">xinchen</a></p><p><a href="https://www.gaokao.cn/school/166" target="_blank" rel="noopener">南京信息工程大学-掌上高考</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;a href=&quot;/dest/public/hybrid/xinchen/index.html&quot;&gt;xinchen&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.gaokao.cn/school/166&quot; target=&quot;_blank&quot; rel=&quot;noope
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>hello-world</title>
@@ -43,9 +65,9 @@
     <link href="http://yoursite.com/2023/03/29/test/"/>
     <id>http://yoursite.com/2023/03/29/test/</id>
     <published>2023-03-29T10:51:06.000Z</published>
-    <updated>2023-03-30T13:34:22.678Z</updated>
+    <updated>2023-06-28T02:08:36.893Z</updated>
     
-    <content type="html"><![CDATA[<ul><li>hexo s     启动本地测试服务器</li><li>hexo n post_name 创建 Post</li><li>hexo g     生成静态页面</li><li>hexo d     发布</li><li>ceshi</li></ul>]]></content>
+    <content type="html"><![CDATA[<ul><li>hexo s     启动本地测试服务器</li><li>hexo n post_name 创建 Post</li><li>hexo g     生成静态页面</li><li>hexo d     发布</li></ul>]]></content>
     
     <summary type="html">
     
@@ -56,7 +78,6 @@
 &lt;li&gt;hexo n post_name 创建 Post&lt;/li&gt;
 &lt;li&gt;hexo g     生成静态页面&lt;/li&gt;
 &lt;li&gt;hexo d     发布&lt;/li&gt;
-&lt;li&gt;ceshi&lt;/li&gt;
 &lt;/ul&gt;
 
       

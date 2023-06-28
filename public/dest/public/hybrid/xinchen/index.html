@@ -1,0 +1,201 @@
+<html>
+    <head>
+        <style>
+            body {
+                margin: 0;
+                padding: 0;
+            }
+
+            h1 {
+                color: #CFF384;
+            }
+
+            .img-div {
+                /* border: 1px solid red; */
+                display: flex;
+                flex: 1;
+                flex-direction: row;
+                justify-content: center;
+            }
+
+            .center-div {
+                display: flex;
+                flex: 1;
+                flex-direction: row;
+                justify-content: center;
+            }
+
+            img {
+                margin: 5px;
+                animation: rotate 10s linear infinite;
+                -webkit-animation: rotate 10s linear infinite;
+                border-radius: 50%;
+                border-width: 2px;
+                border-color: rgb(219, 25, 129);
+                border-style: dashed;
+            }
+
+            .dog-img {
+                border-color: rgb(19, 107, 195);
+            }
+
+            p {
+                font-size: 30px;
+                font-weight: bold;
+                color: pink;
+            }
+
+            table {
+                border: 1px solid greenyellow;
+                font-size: 30px;
+                font-weight: 500;
+            }
+
+            td {
+                border: 1px solid orange;
+                text-align: center;
+                width: 150px;
+            }
+
+            @keyframes rotate {
+                0% {
+                    transform: rotate(0);
+                }
+
+                25% {
+                    transform: rotate(90deg);
+                }
+
+                50% {
+                    transform: rotate(180deg);
+                }
+
+                75% {
+                    transform: rotate(270deg);
+                }
+
+                100% {
+                    transform: rotate(360deg);
+                }
+            }
+
+            @-webkit-keyframes rotate {
+                0% {
+                    transform: rotate(0);
+                }
+
+                25% {
+                    transform: rotate(90deg);
+                }
+
+                50% {
+                    transform: rotate(180deg);
+                }
+
+                75% {
+                    transform: rotate(270deg);
+                }
+
+                100% {
+                    transform: rotate(360deg);
+                }
+            }
+        </style>
+    </head>      
+    <body>
+        <div class="center-div">
+            <h1>馨馨</h1>
+        </div>
+        <div class="center-div">
+            <table>
+                <tr>
+                    <td>一</td>
+                    <td>二</td>
+                    <td>三</td>
+                    <td>四</td>
+                    <td>五</td>
+                </tr>
+                <tr>
+                    <td>数学</td>
+                    <td>跆拳道</td>
+                    <td>语文</td>
+                    <td>语文</td>
+                    <td>体育</td>
+                </tr>
+                <tr>
+                    <td>英语</td>
+                    <td>英语</td>
+                    <td>美术</td>
+                    <td>体育</td>
+                    <td>数学</td>
+                </tr>
+                <tr>
+                    <td>道法</td>
+                    <td>道法</td>
+                    <td>数学</td>
+                    <td>语文</td>
+                    <td>音乐</td>
+                </tr> 
+                <tr>
+                    <td>体育</td>
+                    <td>语文</td>
+                    <td>英语</td>
+                    <td>数学</td>
+                    <td>语文</td>
+                </tr>
+                <tr>
+                    <td>音乐</td>
+                    <td>数学</td>
+                    <td>体育</td>
+                    <td>英语</td>
+                    <td>自然 </td>
+                </tr>
+                <tr>
+                    <td>语文</td>
+                    <td>数学</td>
+                    <td>自然</td>
+                    <td>劳技</td>
+                    <td>外教</td>
+                </tr>
+                <tr>
+                    <td>语文</td>
+                    <td>体育</td>
+                    <td>PBL</td>
+                    <td>道法</td>
+                    <td>英语</td>
+                </tr>
+                <tr>
+                    <td>作业</td>
+                    <td>体育</td>
+                    <td>作业</td>
+                    <td>作业</td>
+                    <td>作业</td>
+                </tr>
+                <tr>
+                    <td>五彩+</td>
+                    <td>作业</td>
+                    <td>PBL</td>
+                    <td>兴趣活动</td>
+                    <td>班团队活动</td>
+                </tr>
+            </table>
+        </div>
+        <div class="center-div">
+            <p>辰辰</p>
+        </div>
+        <div class="img-div">
+            <img width="400" height="300" src="./images/cat.png" onclick="doCat()"/>
+            <img class="dog-img" width="400" height="300" src="./images/dog.png" onclick="doDog()"/>
+        </div>
+
+        <script>
+            function doCat (){
+                alert('cat')
+            }
+
+            function doDog (){
+                alert('dog')
+            }
+        </script>
+    </body>  
+</html>
