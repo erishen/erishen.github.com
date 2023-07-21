@@ -6,3 +6,5 @@ categories:
 ---
 
 [next.js](https://nextjs.org/)
+
+[get started](https://nextjs.org/docs/getting-started/installation)
