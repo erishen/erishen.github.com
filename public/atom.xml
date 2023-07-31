@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2023-06-28T02:13:09.665Z</updated>
+  <updated>2023-07-31T14:25:18.011Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,20 +17,41 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>next13</title>
+    <link href="http://yoursite.com/2023/07/31/next13/"/>
+    <id>http://yoursite.com/2023/07/31/next13/</id>
+    <published>2023-07-31T14:23:05.000Z</published>
+    <updated>2023-07-31T14:25:18.011Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="next13-skeleton"><a href="#next13-skeleton" class="headerlink" title="next13-skeleton"></a><a href="/next13-skeleton">next13-skeleton</a></h2>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;next13-skeleton&quot;&gt;&lt;a href=&quot;#next13-skeleton&quot; class=&quot;headerlink&quot; title=&quot;next13-skeleton&quot;&gt;&lt;/a&gt;&lt;a href=&quot;/next13-skeleton&quot;&gt;next13-skeleto
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>20230628</title>
     <link href="http://yoursite.com/2023/06/28/20230628/"/>
     <id>http://yoursite.com/2023/06/28/20230628/</id>
     <published>2023-06-28T02:06:39.000Z</published>
-    <updated>2023-06-28T02:13:09.665Z</updated>
+    <updated>2023-07-31T14:25:15.227Z</updated>
     
-    <content type="html"><![CDATA[<p><a href="/dest/public/hybrid/xinchen/index.html">xinchen</a></p><p><a href="https://www.gaokao.cn/school/166" target="_blank" rel="noopener">南京信息工程大学-掌上高考</a></p>]]></content>
+    <content type="html"><![CDATA[<p><a href="/dest/public/hybrid/xinchen/index.html">xinchen</a></p>]]></content>
     
     <summary type="html">
     
       
       
         &lt;p&gt;&lt;a href=&quot;/dest/public/hybrid/xinchen/index.html&quot;&gt;xinchen&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.gaokao.cn/school/166&quot; target=&quot;_blank&quot; rel=&quot;noope
+
       
     
     </summary>
@@ -43,7 +64,7 @@
     <link href="http://yoursite.com/2023/06/09/hello-world/"/>
     <id>http://yoursite.com/2023/06/09/hello-world/</id>
     <published>2023-06-09T03:32:27.000Z</published>
-    <updated>2023-07-21T10:31:58.150Z</updated>
+    <updated>2023-07-31T14:25:23.300Z</updated>
     
     <content type="html"><![CDATA[<p><a href="https://nextjs.org/" target="_blank" rel="noopener">next.js</a></p><p><a href="https://nextjs.org/docs/getting-started/installation" target="_blank" rel="noopener">get started</a></p>]]></content>
     
