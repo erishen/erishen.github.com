@@ -5,4 +5,4 @@ tags:
 categories:
 ---
 
-## [next13-skeleton](/next13-skeleton)
+## [next13-skeleton](/next13-skeleton-app)
