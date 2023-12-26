@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2023-12-24T12:18:47.687Z</updated>
+  <updated>2023-12-26T11:11:56.428Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>neer</title>
+    <link href="http://yoursite.com/2023/12/26/neer/"/>
+    <id>http://yoursite.com/2023/12/26/neer/</id>
+    <published>2023-12-26T10:46:57.000Z</published>
+    <updated>2023-12-26T11:11:56.428Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="neer"><a href="#neer" class="headerlink" title="neer"></a><a href="https://www.npmjs.com/package/neer" target="_blank" rel="noopener">neer</a></h2><ul><li><p><a href="https://github.com/erishen/neer" target="_blank" rel="noopener">Github 链接</a></p></li><li><p>Copy from nextjs 13.1.1</p></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;neer&quot;&gt;&lt;a href=&quot;#neer&quot; class=&quot;headerlink&quot; title=&quot;neer&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.npmjs.com/package/neer&quot; target=&quot;_blank&quot; rel=&quot;noopener
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>nsgm</title>
