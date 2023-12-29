@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2023-12-26T11:11:56.428Z</updated>
+  <updated>2023-12-29T12:11:13.889Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2023/12/26/neer/"/>
     <id>http://yoursite.com/2023/12/26/neer/</id>
     <published>2023-12-26T10:46:57.000Z</published>
-    <updated>2023-12-26T11:11:56.428Z</updated>
+    <updated>2023-12-29T12:11:13.889Z</updated>
     
     <content type="html"><![CDATA[<h2 id="neer"><a href="#neer" class="headerlink" title="neer"></a><a href="https://www.npmjs.com/package/neer" target="_blank" rel="noopener">neer</a></h2><ul><li><p><a href="https://github.com/erishen/neer" target="_blank" rel="noopener">Github 链接</a></p></li><li><p>Copy from nextjs 13.1.1</p></li></ul>]]></content>
     
@@ -42,7 +42,7 @@
     <link href="http://yoursite.com/2023/12/24/nsgm/"/>
     <id>http://yoursite.com/2023/12/24/nsgm/</id>
     <published>2023-12-24T12:05:59.000Z</published>
-    <updated>2023-12-24T12:18:47.687Z</updated>
+    <updated>2023-12-29T12:11:13.889Z</updated>
     
     <content type="html"><![CDATA[<h1 id="NSGM-CLI"><a href="#NSGM-CLI" class="headerlink" title="NSGM CLI"></a>NSGM CLI</h1><ul><li>技术栈: <a href="https://github.com/vercel/next.js" target="_blank" rel="noopener">Next</a>, <a href="https://github.com/styled-components/styled-components" target="_blank" rel="noopener">Styled-components</a>, <a href="https://graphql.org/" target="_blank" rel="noopener">Graphql</a>, <a href="https://www.mysql.com/" target="_blank" rel="noopener">Mysql</a></li><li>全栈架构，代码模板生成，快速开发</li><li>数据库采用 Mysql, 配置见 mysql.config.js</li><li>项目配置见 project.config.js</li><li>Next 框架配置见 next.config.js</li><li><a href="https://nsgm.erisl.top" target="_blank" rel="noopener">Demo 链接</a></li><li><a href="https://www.npmjs.com/package/nsgm-cli" target="_blank" rel="noopener">Npmjs 链接</a></li><li><a href="https://github.com/erishen/nsgm" target="_blank" rel="noopener">Github 链接</a></li></ul><h2 id="命令"><a href="#命令" class="headerlink" title="命令"></a>命令</h2><ul><li>nsgm init    初始化项目</li><li>nsgm upgrade 升级项目基础文件</li><li>nsgm create  创建模板页面</li><li>nsgm delete  删除模板页面</li><li>nsgm deletedb 删除模板页面及数据库表</li><li>nsgm dev     开发模式</li><li>nsgm start   生产模式</li><li>nsgm build   编译</li><li>nsgm export  导出静态页面</li></ul>]]></content>
     
@@ -64,16 +64,15 @@
     <link href="http://yoursite.com/2023/12/12/resume/"/>
     <id>http://yoursite.com/2023/12/12/resume/</id>
     <published>2023-12-12T02:00:51.000Z</published>
-    <updated>2023-12-24T12:03:24.593Z</updated>
+    <updated>2023-12-29T12:12:21.794Z</updated>
     
-    <content type="html"><![CDATA[<p><a href="http://121.43.172.252:8080/newblog/resume/erishen" target="_blank" rel="noopener">我的简历 Resume</a></p>]]></content>
+    <content type="html"><![CDATA[<p><a href="http://121.43.172.252:8080/resume/erishen" target="_blank" rel="noopener">我的简历</a><br><a href="http://121.43.172.252:8080/resume/erishen_en" target="_blank" rel="noopener">Resume</a></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;&lt;a href=&quot;http://121.43.172.252:8080/newblog/resume/erishen&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;我的简历 Resume&lt;/a&gt;&lt;/p&gt;
-
+        &lt;p&gt;&lt;a href=&quot;http://121.43.172.252:8080/resume/erishen&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;我的简历&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://121.43.172.252:8080/resume
       
     
     </summary>
@@ -86,7 +85,7 @@
     <link href="http://yoursite.com/2023/07/31/next13/"/>
     <id>http://yoursite.com/2023/07/31/next13/</id>
     <published>2023-07-31T14:23:05.000Z</published>
-    <updated>2023-12-24T12:03:24.592Z</updated>
+    <updated>2023-08-01T02:58:11.848Z</updated>
     
     <content type="html"><![CDATA[<h2 id="next13-skeleton"><a href="#next13-skeleton" class="headerlink" title="next13-skeleton"></a><a href="/next13-skeleton-app">next13-skeleton</a></h2>]]></content>
     
@@ -107,7 +106,7 @@
     <link href="http://yoursite.com/2023/06/28/20230628/"/>
     <id>http://yoursite.com/2023/06/28/20230628/</id>
     <published>2023-06-28T02:06:39.000Z</published>
-    <updated>2023-12-24T12:03:24.592Z</updated>
+    <updated>2023-07-31T14:25:15.227Z</updated>
     
     <content type="html"><![CDATA[<p><a href="/dest/public/hybrid/xinchen/index.html">xinchen</a></p>]]></content>
     
@@ -129,7 +128,7 @@
     <link href="http://yoursite.com/2023/06/09/hello-world/"/>
     <id>http://yoursite.com/2023/06/09/hello-world/</id>
     <published>2023-06-09T03:32:27.000Z</published>
-    <updated>2023-12-24T12:03:24.592Z</updated>
+    <updated>2023-07-31T14:25:23.300Z</updated>
     
     <content type="html"><![CDATA[<p><a href="https://nextjs.org/" target="_blank" rel="noopener">next.js</a></p><p><a href="https://nextjs.org/docs/getting-started/installation" target="_blank" rel="noopener">get started</a></p>]]></content>
     
@@ -151,7 +150,7 @@
     <link href="http://yoursite.com/2023/03/29/test/"/>
     <id>http://yoursite.com/2023/03/29/test/</id>
     <published>2023-03-29T10:51:06.000Z</published>
-    <updated>2023-12-24T12:03:24.593Z</updated>
+    <updated>2023-06-28T02:08:36.893Z</updated>
     
     <content type="html"><![CDATA[<ul><li>hexo s     启动本地测试服务器</li><li>hexo n post_name 创建 Post</li><li>hexo g     生成静态页面</li><li>hexo d     发布</li></ul>]]></content>
     
@@ -178,7 +177,7 @@
     <link href="http://yoursite.com/2020/01/28/hello-everyone/"/>
     <id>http://yoursite.com/2020/01/28/hello-everyone/</id>
     <published>2020-01-28T05:40:00.000Z</published>
-    <updated>2020-04-25T03:50:47.788Z</updated>
+    <updated>2023-03-30T12:54:32.387Z</updated>
     
     <content type="html"><![CDATA[<h2 id="小学一年级100以内数学加减"><a href="#小学一年级100以内数学加减" class="headerlink" title="小学一年级100以内数学加减"></a><a href="/dest/public/hybrid/math/quiz.html?min=10&amp;max=100">小学一年级100以内数学加减</a></h2><h2 id="小学一年级上英语单词"><a href="#小学一年级上英语单词" class="headerlink" title="小学一年级上英语单词"></a><a href="/dest/public/hybrid/english/quiz.html">小学一年级上英语单词</a></h2><h2 id="小学一年级上汉字拼音"><a href="#小学一年级上汉字拼音" class="headerlink" title="小学一年级上汉字拼音"></a><a href="/dest/public/hybrid/chinese/quiz.html">小学一年级上汉字拼音</a></h2><h2 id="小学生必背古诗"><a href="#小学生必背古诗" class="headerlink" title="小学生必背古诗"></a><a href="/dest/public/hybrid/chinese/poetry.html">小学生必背古诗</a></h2><h2 id="小学生必会成语"><a href="#小学生必会成语" class="headerlink" title="小学生必会成语"></a><a href="/dest/public/hybrid/chinese/idiom.html">小学生必会成语</a></h2><h2 id="笔记"><a href="#笔记" class="headerlink" title="笔记"></a><a href="/dest/public/hybrid/engineer/paste.html">笔记</a></h2><h2 id="头条"><a href="#头条" class="headerlink" title="头条"></a><a href="/dest/public/hybrid/juhe/toutiao.html">头条</a></h2><h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a><a href="/dest/public/hybrid/apiopen/videoRecommend.html">视频</a></h2><h2 id="天气"><a href="#天气" class="headerlink" title="天气"></a><a href="/Seniverse.html">天气</a></h2>]]></content>
     

@@ -5,4 +5,5 @@ tags:
 categories:
 ---
 
-[我的简历 Resume](http://121.43.172.252:8080/newblog/resume/erishen)
+[我的简历](http://121.43.172.252:8080/resume/erishen)
+[Resume](http://121.43.172.252:8080/resume/erishen_en)
